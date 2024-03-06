@@ -35,13 +35,13 @@ Here are some ideas to get you started:
 </div>
 
 ### :woman_technologist: About Me :
-I come from a small island in the Indian Ocean called Mauritius and I am currently a student at the Université de Montréal.
+I hail from the picturesque island of Mauritius in the Indian Ocean and am presently pursuing my studies at Université de Montréal.
 
-- 🏫 I am in my 2nd year at university in Computer Science.
+- 🏫  I am currently in my second year of university (graduating in December 2024), majoring in Computer Science.
 
-- :seedling: I am currently exploring fields of Data Science and Quality of Softwares.
+- :seedling: My academic journey involves delving into the realms of Data Science, Software Quality and since recently in the wonderful and magical world of AI.
 
-- :zap: In my free time, I like to read and go hiking.
+- :zap: During my leisure time, I find solace in reading and indulging in hiking adventures.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vennilasooben/) or [![Email Badge](https://img.shields.io/badge/-Email-green?style=flat&logo=Outlook&logoColor=white)](mailto:vennila.sooben@umontreal.ca)
 
