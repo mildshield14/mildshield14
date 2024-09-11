@@ -22,8 +22,8 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/vennilasooben/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://mildshield14.github.io/src/index.html">
-    <img src="https://img.shields.io/badge/Personal Website-red?style=for-the-badge&logo=computer&logoColor=white" alt="[Youtube Badge](https://mildshield14.github.io/src/index.html)"/>
+  <a href="https://vs-personal-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Personal Website-red?style=for-the-badge&logo=computer&logoColor=white" alt="[Youtube Badge](https://vs-personal-portfolio.netlify.app)"/>
   </a>
 </div>
 
@@ -37,7 +37,9 @@ Here are some ideas to get you started:
 ### :woman_technologist: About Me :
 I hail from the picturesque island of Mauritius in the Indian Ocean and am presently pursuing my studies at Université de Montréal.
 
-- 🏫  I am currently in my second year of university (graduating in December 2024), majoring in Computer Science.
+- 🏫  I am currently in my last year of university (graduating in December 2024), majoring in Computer Science.
+  
+- 🌞  I am a full stack developer specialised in frontend
 
 - :seedling: My academic journey involves delving into the realms of Data Science, Software Quality and since recently in the wonderful and magical world of AI.
 
