@@ -48,7 +48,7 @@ I hail from the picturesque island of Mauritius in the Indian Ocean and am prese
 
 - :zap: During my leisure time, I find solace in reading, indulging in hiking adventures, cooking and yapping with friends at run clubs.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vennilasooben/) or [![Email Badge](https://img.shields.io/badge/-Email-green?style=flat&logo=Outlook&logoColor=white)](mailto:vennila.sooben@umontreal.ca)
+- :mailbox: How to reach me: [![Linkedin Badge](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vennilasooben/) or [![Email Badge](https://skillicons.dev/icons?i=gmail)](mailto:vennilasooben1401@gmail.com)
 
 ---
 
