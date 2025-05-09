@@ -37,32 +37,44 @@ Here are some ideas to get you started:
 ### :woman_technologist: About Me :
 I hail from the picturesque island of Mauritius in the Indian Ocean and am presently pursuing my studies at Université de Montréal.
 
-- 🏫  I am currently in my last year of university (graduating in December 2024), majoring in Computer Science.
+- 🏫  I graduated from Université de Montréal with a BSc in Computer Science in December 2024 and I'm currently pursuing my MSc in Computer Science in Software Engineering and Machine Learning.
   
 - 🌞  I am a full stack developer specialised in frontend
 
 - :seedling: My academic journey involves delving into the realms of Data Science, Software Quality and since recently in the wonderful and magical world of AI.
 
-- :zap: During my leisure time, I find solace in reading and indulging in hiking adventures.
+- :zap: During my leisure time, I find solace in reading, indulging in hiking adventures, cooking and yapping with friends at run clubs.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vennilasooben/) or [![Email Badge](https://img.shields.io/badge/-Email-green?style=flat&logo=Outlook&logoColor=white)](mailto:vennila.sooben@umontreal.ca)
 
 ---
 
+### 🌟 Main Skills
+[![Skills](https://skillicons.dev/icons?i=js,ts,vue,react,nodejs,express,postgres,mysql,redis,docker,git,linux,python,java,cpp,html,css,latex)](https://skillicons.dev)
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://hackr.io/tutorials/learn-visual-basic-net-vb/logo/logo-visual-basic-net-vb?ver=1673280142"  title="VB.NET" alt="VB.NET" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
-  <img src="https://mathvault.ca/wp-content/uploads/latex-logo1.jpg"  title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
-  <img src="https://junit.org/junit4/images/junit5-banner.png" title="JUnit" **alt="Junit" width="40" height="40"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="40"/>
- 
+  ### 🔧 Languages & Tools
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="35" height="35"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="35" height="35"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="35" height="35"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="35" height="35"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="35" height="35"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="35" height="35"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="35" height="35"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="35" height="35"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="35" height="35"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="35" height="35"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="35" height="35"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="35" height="35"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="35" height="35"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="35" height="35"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="35" height="35"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="35" height="35"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="35" height="35"/>  
+<img src="https://mathvault.ca/wp-content/uploads/latex-logo1.jpg" title="LaTeX" alt="LaTeX" width="35" height="35"/>
 </div>
 
 ---
